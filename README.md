@@ -1,4 +1,4 @@
-![My Logo](images/github-header-banner-v3.png)
+![My Logo](images/github-header-banner.png)
 
 <div align="center" style="margin:0;">
   <img 
