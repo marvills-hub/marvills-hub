@@ -39,14 +39,14 @@
 
 <br>
 
-👤 **Name:** Marben Villaflor  
-🎂 **Age:** 26 <br>
-🚹 **Gender:** Male  
-📱 **Contact:** 09657188624  
-📧 **Email:** MarbenVillaflor4@gmail.com  
-🌏 **Country:** Philippines  
-🏠 **Address:** Zone 10 Bulua, Cagayan de Oro City  
-📍 **Currently Living:** Tomas Saco Street, Nazareth, CDO
+> 👤 **Name:** Marben Villaflor  
+> 🎂 **Age:** 26 <br>
+> 🚹 **Gender:** Male  
+> 📱 **Contact:** 09657188624  
+> 📧 **Email:** marbenvillaflor4@gmail.com  
+> 🌏 **Country:** Philippines  
+> 🏠 **Address:** Zone 10 Bulua, Cagayan de Oro City  
+> 📍 **Currently Living:** Tomas Saco Street, Nazareth, CDO
 
 </details>
 
@@ -221,6 +221,7 @@ console.log("Welcome to Marben's GitHub Portfolio 🚀");
     style="width:100%; max-width:1000px;" 
   />
 </div>
+
 
 
 
