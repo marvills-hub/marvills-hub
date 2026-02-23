@@ -15,14 +15,16 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/contribution-art.svg" />
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/contribution-art.svg"  />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:E584FC&height=4&section=header&animation=fadeIn" width="100%" />
+</p>
 
 ## 🚀 About Me
 
-- 👨‍💻 Mobile & Frontend Developer specializing in **Angular** and **Flutter**
+- 👨‍💻 Software Developer specializing frontend using **Angular**, **Wordpress**, **Laravel** and **Flutter**
 - 🎓 Bachelor of Science in Information Technology (2022)
 - 🎯 Focused on scalable, maintainable frontend architecture
 - 🎨 Strong attention to UI/UX and responsive design
@@ -31,6 +33,22 @@
 💡 I love transforming ideas into interactive, high-performance applications.  
 ⚡ Passionate about modern frontend architecture and smooth user experiences.  
 📈 Continuously improving and exploring new technologies.
+
+<details>
+<summary>🔐 Personal Info</summary>
+
+<br>
+
+👤 **Name:** Marben Villaflor  
+🎂 **Age:** 26 <br>
+🚹 **Gender:** Male  
+📱 **Contact:** 09657188624  
+📧 **Email:** MarbenVillaflor4@gmail.com  
+🌏 **Country:** Philippines  
+🏠 **Address:** Zone 10 Bulua, Cagayan de Oro City  
+📍 **Currently Living:** Tomas Saco Street, Nazareth, CDO
+
+</details>
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +61,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ### 🎨 Frontend Development
 
@@ -57,7 +77,9 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ### ⚙️ Technical Expertise & Integrations
 
@@ -68,7 +90,9 @@
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ### 🧰 Tools & Workflow
 
@@ -79,7 +103,9 @@
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge)
 ![Monday](https://img.shields.io/badge/Monday-FF3D57?style=for-the-badge)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ### 🧱 Development & Creative Tools
 
@@ -99,7 +125,8 @@
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase Console](https://img.shields.io/badge/Firebase%20Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Mailtrap](https://img.shields.io/badge/Mailtrap-FF6C37?style=for-the-badge&logo=mailtrap&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-5030E5?style=for-the-badge&logo=resend&logoColor=white)
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
@@ -126,10 +153,6 @@
 
 ## 🐍 Contribution Snake
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/generated-snake-graph/github-contribution-grid-snake.gif" />
-</p> -->
-<!--  ![Snake animation](https://raw.githubusercontent.com/marvills-hub/marvills-hub/generated-snake-graph/github-contribution-grid-snake.gif) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -146,7 +169,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
+
 > // This line doesn't actually do anything, but the code stops working when I delete it. (1771845956) 😆
+
 <!-- JOKE-END -->
 
 ---
@@ -194,3 +219,9 @@ console.log("Welcome to Marben's GitHub Portfolio 🚀");
     style="width:100%; max-width:1000px;" 
   />
 </div>
+
+
+
+
+
+
