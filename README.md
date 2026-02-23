@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/contribution-art.svg" />
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/contribution-art.svg" />
 </p>
 
 ---
@@ -199,3 +199,4 @@ console.log("Welcome to Marben's GitHub Portfolio 🚀");
     style="width:100%; max-width:1000px;" 
   />
 </div>
+
