@@ -61,9 +61,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
-</p>
+---
 
 ### 🎨 Frontend Development
 
@@ -77,9 +75,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
-</p>
+---
 
 ### ⚙️ Technical Expertise & Integrations
 
@@ -90,9 +86,7 @@
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
-</p>
+---
 
 ### 🧰 Tools & Workflow
 
@@ -103,9 +97,7 @@
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge)
 ![Monday](https://img.shields.io/badge/Monday-FF3D57?style=for-the-badge)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
-</p>
+---
 
 ### 🧱 Development & Creative Tools
 
@@ -131,7 +123,9 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -149,7 +143,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvills-hub&theme=tokyonight&utcOffset=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -184,7 +180,9 @@
 - 🧠 TypeScript ecosystem evolution
 - 🎨 Modern UI/UX design systems
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ## 🎯 Current Goals
 
@@ -193,7 +191,9 @@
 - 📚 Improve system design & frontend architecture
 - 🏆 Contribute to open-source projects
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ## 🎮 Interactive Section
 
@@ -203,7 +203,9 @@ Try opening your browser console and typing:
 console.log("Welcome to Marben's GitHub Portfolio 🚀");
 ```
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marvills-hub/marvills-hub/main/images/divider_3px_gradient_slow_glow.gif" width="100%" />
+</p>
 
 ## 📬 Connect With Me
 
@@ -219,6 +221,7 @@ console.log("Welcome to Marben's GitHub Portfolio 🚀");
     style="width:100%; max-width:1000px;" 
   />
 </div>
+
 
 
 
