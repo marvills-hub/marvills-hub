@@ -160,7 +160,9 @@
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:E584FC&height=4&section=header&animation=fadeIn" width="100%" />
+</p>
 
 ## 😂 Programming Joke
 
@@ -170,7 +172,9 @@
 
 <!-- JOKE-END -->
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:E584FC&height=4&section=header&animation=fadeIn" width="100%" />
+</p>
 
 ## 📰 Tech Trends I'm Watching
 
@@ -221,6 +225,7 @@ console.log("Welcome to Marben's GitHub Portfolio 🚀");
     style="width:100%; max-width:1000px;" 
   />
 </div>
+
 
 
 
