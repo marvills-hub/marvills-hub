@@ -147,10 +147,7 @@
 
 <!-- JOKE-START -->
 
-> Eight bytes walk into a bar.
-> The bartender asks, "Can I get you anything?"
-> "Yeah," reply the bytes.
-> "Make us a double." 😆
+> Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. (1771843156) 😆
 
 <!-- JOKE-END -->
 
@@ -199,6 +196,3 @@ console.log("Welcome to Marben's GitHub Portfolio 🚀");
     style="width:100%; max-width:1000px;" 
   />
 </div>
-
-
-
