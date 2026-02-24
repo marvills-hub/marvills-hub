@@ -165,9 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1771845956) 😆
-
+> A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off." (1771901167) 😆
 <!-- JOKE-END -->
 
 ---
