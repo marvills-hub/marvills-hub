@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off." (1771901167) 😆
+> "We messed up the keming again guys." (1771987616) 😆
 <!-- JOKE-END -->
 
 ---
