@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1771987616) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1772073717) 😆
 <!-- JOKE-END -->
 
 ---
