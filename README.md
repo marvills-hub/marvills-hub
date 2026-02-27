@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1772073717) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1772160045) 😆
 <!-- JOKE-END -->
 
 ---
