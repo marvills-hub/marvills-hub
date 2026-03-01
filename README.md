@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1772245771) 😆
+> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1772333749) 😆
 <!-- JOKE-END -->
 
 ---
