@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1772333749) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1772419406) 😆
 <!-- JOKE-END -->
 
 ---
