@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1772419406) 😆
+> "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned. (1772505968) 😆
 <!-- JOKE-END -->
 
 ---
