@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned. (1772505968) 😆
+> ASCII silly question, get a silly ANSI. (1772591937) 😆
 <!-- JOKE-END -->
 
 ---
