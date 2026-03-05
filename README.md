@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> ASCII silly question, get a silly ANSI. (1772591937) 😆
+> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1772678506) 😆
 <!-- JOKE-END -->
 
 ---
