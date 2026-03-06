@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1772678506) 😆
+> A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?" (1772764767) 😆
 <!-- JOKE-END -->
 
 ---
