@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?" (1772764767) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1772850746) 😆
 <!-- JOKE-END -->
 
 ---
