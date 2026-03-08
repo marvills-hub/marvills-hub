@@ -165,7 +165,12 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1772850746) 😆
+> "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." (1772937931) 😆
 <!-- JOKE-END -->
 
 ---
