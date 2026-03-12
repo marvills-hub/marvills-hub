@@ -165,12 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." (1773196641) 😆
+> "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke." (1773283401) 😆
 <!-- JOKE-END -->
 
 ---
