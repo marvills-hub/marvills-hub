@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke." (1773283401) 😆
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1773369695) 😆
 <!-- JOKE-END -->
 
 ---
