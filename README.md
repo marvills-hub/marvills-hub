@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1773369695) 😆
+> A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double." (1773455991) 😆
 <!-- JOKE-END -->
 
 ---
