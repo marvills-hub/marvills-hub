@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1773544674) 😆
+> Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you. (1773631211) 😆
 <!-- JOKE-END -->
 
 ---
