@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you. (1773631211) 😆
+> Algorithm: A word used by programmers when they don't want to explain how their code works. (1773715403) 😆
 <!-- JOKE-END -->
 
 ---
