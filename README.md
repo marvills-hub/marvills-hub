@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Algorithm: A word used by programmers when they don't want to explain how their code works. (1773715403) 😆
+> Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. (1773802188) 😆
 <!-- JOKE-END -->
 
 ---
