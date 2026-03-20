@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1773888687) 😆
+> I have a joke about Stack Overflow, but you would say it's a duplicate. (1773974529) 😆
 <!-- JOKE-END -->
 
 ---
