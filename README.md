@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I have a joke about Stack Overflow, but you would say it's a duplicate. (1773974529) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1774060533) 😆
 <!-- JOKE-END -->
 
 ---
