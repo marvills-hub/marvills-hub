@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1774060533) 😆
+> The generation of random numbers is too important to be left to chance. (1774147929) 😆
 <!-- JOKE-END -->
 
 ---
