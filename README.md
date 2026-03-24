@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off." (1774234322) 😆
+> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1774320245) 😆
 <!-- JOKE-END -->
 
 ---
