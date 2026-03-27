@@ -165,7 +165,12 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your mama's so FAT she can't save files bigger than 4GB. (1774493732) 😆
+> "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." (1774581407) 😆
 <!-- JOKE-END -->
 
 ---
