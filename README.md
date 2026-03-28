@@ -165,12 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." (1774581407) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1774666077) 😆
 <!-- JOKE-END -->
 
 ---
