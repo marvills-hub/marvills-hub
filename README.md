@@ -165,10 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1774666077) 😆
+> Have a great weekend!
+I hope your code behaves the same on Monday as it did on Friday. (1774754465) 😆
 <!-- JOKE-END -->
 
 ---
