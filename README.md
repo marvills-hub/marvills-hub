@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1774925827) 😆
+> Your mama's so FAT she can't save files bigger than 4GB. (1775014121) 😆
 <!-- JOKE-END -->
 
 ---
