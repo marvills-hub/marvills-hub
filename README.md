@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your mama's so FAT she can't save files bigger than 4GB. (1775014121) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1775098418) 😆
 <!-- JOKE-END -->
 
 ---
