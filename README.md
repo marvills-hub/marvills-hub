@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1775270785) 😆
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1775359403) 😆
 <!-- JOKE-END -->
 
 ---
