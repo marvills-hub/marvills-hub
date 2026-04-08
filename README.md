@@ -165,9 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke." (1775531794) 😆
+> Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you. (1775618313) 😆
 <!-- JOKE-END -->
 
 ---
