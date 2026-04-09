@@ -165,11 +165,12 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you. (1775618313) 😆
+> "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." (1775703275) 😆
 <!-- JOKE-END -->
 
 ---
