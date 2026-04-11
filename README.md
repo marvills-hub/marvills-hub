@@ -165,10 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A byte walks into a bar looking miserable.
-The bartender asks it: "What's wrong buddy?"
-"Parity error." it replies. 
-"Ah that makes sense, I thought you looked a bit off." (1775791628) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1775875867) 😆
 <!-- JOKE-END -->
 
 ---
