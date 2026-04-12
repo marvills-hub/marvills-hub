@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1775875867) 😆
+> Debugging: Removing the needles from the haystack. (1775964662) 😆
 <!-- JOKE-END -->
 
 ---
