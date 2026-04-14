@@ -165,11 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. (1776051421) 😆
+> Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing... (1776137198) 😆
 <!-- JOKE-END -->
 
 ---
