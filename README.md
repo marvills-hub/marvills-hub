@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1776223515) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1776310374) 😆
 <!-- JOKE-END -->
 
 ---
