@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double." (1776396515) 😆
+> "We messed up the keming again guys." (1776482195) 😆
 <!-- JOKE-END -->
 
 ---
