@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1776482195) 😆
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1776569735) 😆
 <!-- JOKE-END -->
 
 ---
