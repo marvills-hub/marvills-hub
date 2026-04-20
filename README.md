@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1776569735) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1776656232) 😆
 <!-- JOKE-END -->
 
 ---
