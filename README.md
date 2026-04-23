@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging: Removing the needles from the haystack. (1776828460) 😆
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. (1776915060) 😆
 <!-- JOKE-END -->
 
 ---
