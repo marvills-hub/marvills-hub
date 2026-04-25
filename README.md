@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging: Removing the needles from the haystack. (1777001613) 😆
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1777087100) 😆
 <!-- JOKE-END -->
 
 ---
