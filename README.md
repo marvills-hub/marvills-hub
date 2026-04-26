@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1777087100) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1777174824) 😆
 <!-- JOKE-END -->
 
 ---
