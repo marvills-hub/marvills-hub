@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1777348240) 😆
+> "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke." (1777434455) 😆
 <!-- JOKE-END -->
 
 ---
