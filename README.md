@@ -165,9 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke." (1777434455) 😆
+> How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. (1777520954) 😆
 <!-- JOKE-END -->
 
 ---
