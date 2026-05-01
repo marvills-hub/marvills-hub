@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. (1777520954) 😆
+> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1777608012) 😆
 <!-- JOKE-END -->
 
 ---
