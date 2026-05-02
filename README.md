@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1777608012) 😆
+> Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you. (1777692813) 😆
 <!-- JOKE-END -->
 
 ---
