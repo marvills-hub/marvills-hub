@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you. (1777692813) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1777780510) 😆
 <!-- JOKE-END -->
 
 ---
