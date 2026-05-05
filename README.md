@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1777866768) 😆
+> ASCII silly question, get a silly ANSI. (1777952063) 😆
 <!-- JOKE-END -->
 
 ---
