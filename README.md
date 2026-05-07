@@ -165,13 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work? (1778039373) 😆
+> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1778125687) 😆
 <!-- JOKE-END -->
 
 ---
