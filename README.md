@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday. (1778211564) 😆
+> "We messed up the keming again guys." (1778298012) 😆
 <!-- JOKE-END -->
 
 ---
