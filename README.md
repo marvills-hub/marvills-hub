@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1778472473) 😆
+> Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double." (1778557899) 😆
 <!-- JOKE-END -->
 
 ---
