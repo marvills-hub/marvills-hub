@@ -165,10 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double." (1778557899) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1778644804) 😆
 <!-- JOKE-END -->
 
 ---
