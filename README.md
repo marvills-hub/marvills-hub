@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1778644804) 😆
+> Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. (1778731165) 😆
 <!-- JOKE-END -->
 
 ---
