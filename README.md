@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. (1778731165) 😆
+> Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing... (1778817830) 😆
 <!-- JOKE-END -->
 
 ---
