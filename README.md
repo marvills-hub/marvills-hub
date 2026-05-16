@@ -165,9 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing... (1778817830) 😆
+> A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?" (1778903168) 😆
 <!-- JOKE-END -->
 
 ---
