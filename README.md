@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?" (1778903168) 😆
+> // This line doesn't actually do anything, but the code stops working when I delete it. (1778990647) 😆
 <!-- JOKE-END -->
 
 ---
