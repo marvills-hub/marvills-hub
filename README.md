@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1778990647) 😆
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1779077804) 😆
 <!-- JOKE-END -->
 
 ---
