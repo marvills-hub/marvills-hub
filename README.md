@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1779077804) 😆
+> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1779163898) 😆
 <!-- JOKE-END -->
 
 ---
