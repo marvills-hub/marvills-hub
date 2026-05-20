@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1779163898) 😆
+> Your mama's so FAT she can't save files bigger than 4GB. (1779250356) 😆
 <!-- JOKE-END -->
 
 ---
