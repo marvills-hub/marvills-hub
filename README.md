@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your mama's so FAT she can't save files bigger than 4GB. (1779250356) 😆
+> I have a joke about Stack Overflow, but you would say it's a duplicate. (1779337250) 😆
 <!-- JOKE-END -->
 
 ---
