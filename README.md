@@ -165,9 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing... (1779508465) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1779596090) 😆
 <!-- JOKE-END -->
 
 ---
