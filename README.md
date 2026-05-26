@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1779683152) 😆
+> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1779768707) 😆
 <!-- JOKE-END -->
 
 ---
