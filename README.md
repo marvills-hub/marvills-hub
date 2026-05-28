@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock. (1779855885) 😆
+> // This line doesn't actually do anything, but the code stops working when I delete it. (1779941698) 😆
 <!-- JOKE-END -->
 
 ---
