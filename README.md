@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing... (1780028238) 😆
+> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1780113715) 😆
 <!-- JOKE-END -->
 
 ---
