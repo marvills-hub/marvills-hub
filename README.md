@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1780113715) 😆
+> UDP is better in the COVID era since it avoids unnecessary handshakes. (1780202272) 😆
 <!-- JOKE-END -->
 
 ---
