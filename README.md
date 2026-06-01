@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> UDP is better in the COVID era since it avoids unnecessary handshakes. (1780202272) 😆
+> Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing... (1780289948) 😆
 <!-- JOKE-END -->
 
 ---
