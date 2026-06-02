@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing... (1780289948) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1780375542) 😆
 <!-- JOKE-END -->
 
 ---
