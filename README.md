@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> There are only 10 kinds of people in this world: those who know binary and those who don't. (1780375542) 😆
+> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1780462525) 😆
 <!-- JOKE-END -->
 
 ---
