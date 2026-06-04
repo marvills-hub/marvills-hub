@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1780462525) 😆
+> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1780548523) 😆
 <!-- JOKE-END -->
 
 ---
