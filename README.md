@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1780548523) 😆
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. (1780633435) 😆
 <!-- JOKE-END -->
 
 ---
