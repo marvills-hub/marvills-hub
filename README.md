@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?" (1780718783) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1780807352) 😆
 <!-- JOKE-END -->
 
 ---
