@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1780807352) 😆
+> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1780894040) 😆
 <!-- JOKE-END -->
 
 ---
