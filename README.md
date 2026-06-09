@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1780894040) 😆
+> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1780978177) 😆
 <!-- JOKE-END -->
 
 ---
