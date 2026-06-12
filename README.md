@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1781152990) 😆
+> ASCII silly question, get a silly ANSI. (1781239543) 😆
 <!-- JOKE-END -->
 
 ---
