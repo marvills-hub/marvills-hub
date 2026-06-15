@@ -165,13 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work? (1781412693) 😆
+> Algorithm: A word used by programmers when they don't want to explain how their code works. (1781500107) 😆
 <!-- JOKE-END -->
 
 ---
