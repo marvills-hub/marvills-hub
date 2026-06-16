@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Algorithm: A word used by programmers when they don't want to explain how their code works. (1781500107) 😆
+> The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. (1781586664) 😆
 <!-- JOKE-END -->
 
 ---
