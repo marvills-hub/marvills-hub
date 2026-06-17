@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. (1781586664) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1781672010) 😆
 <!-- JOKE-END -->
 
 ---
