@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1781672010) 😆
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. (1781757898) 😆
 <!-- JOKE-END -->
 
 ---
