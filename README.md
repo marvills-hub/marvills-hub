@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock. (1781757898) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1781845493) 😆
 <!-- JOKE-END -->
 
 ---
