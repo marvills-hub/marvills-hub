@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1781845493) 😆
+> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1781929047) 😆
 <!-- JOKE-END -->
 
 ---
