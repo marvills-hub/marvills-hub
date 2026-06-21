@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1781929047) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1782018070) 😆
 <!-- JOKE-END -->
 
 ---
