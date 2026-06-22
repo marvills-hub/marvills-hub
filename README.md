@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1782018070) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1782104953) 😆
 <!-- JOKE-END -->
 
 ---
