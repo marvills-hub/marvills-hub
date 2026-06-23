@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> There are only 10 kinds of people in this world: those who know binary and those who don't. (1782104953) 😆
+> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1782187622) 😆
 <!-- JOKE-END -->
 
 ---
