@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1782187622) 😆
+> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1782274216) 😆
 <!-- JOKE-END -->
 
 ---
