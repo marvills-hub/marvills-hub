@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1782274216) 😆
+> Debugging: Removing the needles from the haystack. (1782360626) 😆
 <!-- JOKE-END -->
 
 ---
