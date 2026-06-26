@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging: Removing the needles from the haystack. (1782360626) 😆
+> A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?" (1782447426) 😆
 <!-- JOKE-END -->
 
 ---
