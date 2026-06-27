@@ -165,8 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?" (1782447426) 😆
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. (1782533018) 😆
 <!-- JOKE-END -->
 
 ---
