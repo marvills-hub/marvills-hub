@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock. (1782533018) 😆
+> ASCII silly question, get a silly ANSI. (1782620738) 😆
 <!-- JOKE-END -->
 
 ---
