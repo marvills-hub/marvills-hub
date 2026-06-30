@@ -165,11 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. (1782708292) 😆
+> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1782792707) 😆
 <!-- JOKE-END -->
 
 ---
