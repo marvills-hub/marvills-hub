@@ -165,12 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." (1782880808) 😆
+> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1782965238) 😆
 <!-- JOKE-END -->
 
 ---
