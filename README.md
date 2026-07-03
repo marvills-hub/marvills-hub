@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1782965238) 😆
+> Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double." (1783050814) 😆
 <!-- JOKE-END -->
 
 ---
