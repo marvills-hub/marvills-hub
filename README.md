@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> UDP is better in the COVID era since it avoids unnecessary handshakes. (1783136794) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1783224309) 😆
 <!-- JOKE-END -->
 
 ---
