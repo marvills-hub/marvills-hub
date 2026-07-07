@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> UDP is better in the COVID era since it avoids unnecessary handshakes. (1783311118) 😆
+> A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double." (1783396916) 😆
 <!-- JOKE-END -->
 
 ---
