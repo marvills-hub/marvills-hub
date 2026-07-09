@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The generation of random numbers is too important to be left to chance. (1783481292) 😆
+> Documentation is like sex:
+When it's good, it's very good.
+When it's bad, it's better than nothing... (1783569350) 😆
 <!-- JOKE-END -->
 
 ---
