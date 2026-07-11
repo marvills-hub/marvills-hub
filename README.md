@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Documentation is like sex:
-When it's good, it's very good.
-When it's bad, it's better than nothing... (1783655814) 😆
+> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1783740168) 😆
 <!-- JOKE-END -->
 
 ---
