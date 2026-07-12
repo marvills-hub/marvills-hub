@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary. (1783740168) 😆
+> "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned. (1783827290) 😆
 <!-- JOKE-END -->
 
 ---
