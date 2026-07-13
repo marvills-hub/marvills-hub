@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Honey, go to the store and buy some eggs."
-"OK."
-"Oh and while you're there, get some milk."
-He never returned. (1783827290) 😆
+> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1783913844) 😆
 <!-- JOKE-END -->
 
 ---
