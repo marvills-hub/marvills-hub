@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1783913844) 😆
+> Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double." (1783998746) 😆
 <!-- JOKE-END -->
 
 ---
