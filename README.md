@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double." (1783998746) 😆
+> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1784084216) 😆
 <!-- JOKE-END -->
 
 ---
