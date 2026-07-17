@@ -165,10 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double." (1784171909) 😆
+> How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. (1784258496) 😆
 <!-- JOKE-END -->
 
 ---
