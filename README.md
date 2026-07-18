@@ -165,11 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5. (1784258496) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1784344274) 😆
 <!-- JOKE-END -->
 
 ---
