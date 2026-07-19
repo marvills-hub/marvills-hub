@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A programmer puts two glasses on his bedside table before going to sleep.
-A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1784344274) 😆
+> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1784431866) 😆
 <!-- JOKE-END -->
 
 ---
