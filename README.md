@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1784604279) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1784690598) 😆
 <!-- JOKE-END -->
 
 ---
