@@ -165,7 +165,12 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1784690598) 😆
+> "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java." (1784777376) 😆
 <!-- JOKE-END -->
 
 ---
