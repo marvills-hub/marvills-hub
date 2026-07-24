@@ -165,12 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Knock, knock."
-"Who's there?"
-
-[very long pause]
-
-"Java." (1784777376) 😆
+> I have a joke about Stack Overflow, but you would say it's a duplicate. (1784863467) 😆
 <!-- JOKE-END -->
 
 ---
