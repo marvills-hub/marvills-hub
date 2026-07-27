@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning. (1785036987) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1785123902) 😆
 <!-- JOKE-END -->
 
 ---
