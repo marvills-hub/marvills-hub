@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> There are only 10 kinds of people in this world: those who know binary and those who don't. (1785123902) 😆
+> "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned. (1785208557) 😆
 <!-- JOKE-END -->
 
 ---
