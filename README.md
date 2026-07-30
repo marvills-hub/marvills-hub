@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1785295126) 😆
+> Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double." (1785379903) 😆
 <!-- JOKE-END -->
 
 ---
