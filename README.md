@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double." (1785379903) 😆
+> Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. (1785468874) 😆
 <!-- JOKE-END -->
 
 ---
