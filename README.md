@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. (1785468874) 😆
+> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1785555248) 😆
 <!-- JOKE-END -->
 
 ---
