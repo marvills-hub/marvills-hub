@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1785555248) 😆
+> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1785641629) 😆
 <!-- JOKE-END -->
 
 ---
