@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1785641629) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1785728157) 😆
 <!-- JOKE-END -->
 
 ---
