@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1786071395) 😆
+> // This line doesn't actually do anything, but the code stops working when I delete it. (1786154574) 😆
 <!-- JOKE-END -->
 
 ---
