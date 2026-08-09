@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1786154574) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1786241447) 😆
 <!-- JOKE-END -->
 
 ---
