@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> UDP is better in the COVID era since it avoids unnecessary handshakes. (1787103616) 😆
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. (1787189934) 😆
 <!-- JOKE-END -->
 
 ---
