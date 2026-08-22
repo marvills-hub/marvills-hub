@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging: Removing the needles from the haystack. (1787276644) 😆
+> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1787362651) 😆
 <!-- JOKE-END -->
 
 ---
