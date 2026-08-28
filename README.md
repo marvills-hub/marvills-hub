@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1787820381) 😆
+> Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock. (1787914768) 😆
 <!-- JOKE-END -->
 
 ---
