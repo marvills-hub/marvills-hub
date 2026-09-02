@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your mama's so FAT she can't save files bigger than 4GB. (1788237664) 😆
+> The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. (1788321751) 😆
 <!-- JOKE-END -->
 
 ---
