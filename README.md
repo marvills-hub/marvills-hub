@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. (1788321751) 😆
+> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1788408069) 😆
 <!-- JOKE-END -->
 
 ---
