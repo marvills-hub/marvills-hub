@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1788408069) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1788494663) 😆
 <!-- JOKE-END -->
 
 ---
