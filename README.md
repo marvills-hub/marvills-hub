@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Saying that Java is nice because it works on every OS is like saying that anal sex is nice because it works on every gender. (1788667661) 😆
+> "We messed up the keming again guys." (1788754040) 😆
 <!-- JOKE-END -->
 
 ---
