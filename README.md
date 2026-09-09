@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1788840503) 😆
+> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1788927312) 😆
 <!-- JOKE-END -->
 
 ---
