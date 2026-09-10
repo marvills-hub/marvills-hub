@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1788927312) 😆
+> There are only 10 kinds of people in this world: those who know binary and those who don't. (1789013526) 😆
 <!-- JOKE-END -->
 
 ---
