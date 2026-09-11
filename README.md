@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> There are only 10 kinds of people in this world: those who know binary and those who don't. (1789013526) 😆
+> The generation of random numbers is too important to be left to chance. (1789099893) 😆
 <!-- JOKE-END -->
 
 ---
