@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The generation of random numbers is too important to be left to chance. (1789099893) 😆
+> // This line doesn't actually do anything, but the code stops working when I delete it. (1789186239) 😆
 <!-- JOKE-END -->
 
 ---
