@@ -165,7 +165,11 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1789186239) 😆
+> How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5. (1789273369) 😆
 <!-- JOKE-END -->
 
 ---
