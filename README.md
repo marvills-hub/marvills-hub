@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Debugging: Removing the needles from the haystack. (1789360183) 😆
+> Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. (1789446594) 😆
 <!-- JOKE-END -->
 
 ---
