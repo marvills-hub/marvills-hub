@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1789532716) 😆
+> I've got a really good UDP joke to tell you but I don’t know if you'll get it. (1789619484) 😆
 <!-- JOKE-END -->
 
 ---
