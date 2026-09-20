@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke." (1789791161) 😆
+> Your mama's so FAT she can't save files bigger than 4GB. (1789878696) 😆
 <!-- JOKE-END -->
 
 ---
