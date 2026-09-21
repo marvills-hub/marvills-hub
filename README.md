@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your mama's so FAT she can't save files bigger than 4GB. (1789878696) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1789964980) 😆
 <!-- JOKE-END -->
 
 ---
