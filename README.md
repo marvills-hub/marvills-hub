@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Two SQL tables sit at the bar. A query approaches and asks "Can I join you?" (1790051136) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1790137389) 😆
 <!-- JOKE-END -->
 
 ---
