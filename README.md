@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> A SQL statement walks into a bar and sees two tables.
-It approaches, and asks "may I join you?" (1790223550) 😆
+> The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. (1790310636) 😆
 <!-- JOKE-END -->
 
 ---
