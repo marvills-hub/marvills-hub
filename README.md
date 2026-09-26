@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. (1790310636) 😆
+> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1790397303) 😆
 <!-- JOKE-END -->
 
 ---
