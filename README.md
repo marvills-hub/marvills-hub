@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1790397303) 😆
+> ASCII silly question, get a silly ANSI. (1790484849) 😆
 <!-- JOKE-END -->
 
 ---
