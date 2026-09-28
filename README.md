@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> ASCII silly question, get a silly ANSI. (1790484849) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1790571368) 😆
 <!-- JOKE-END -->
 
 ---
