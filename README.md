@@ -165,10 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1790571368) 😆
+> Algorithm: A word used by programmers when they don't want to explain how their code works. (1790659272) 😆
 <!-- JOKE-END -->
 
 ---
