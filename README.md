@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1790832219) 😆
+> Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. (1790917900) 😆
 <!-- JOKE-END -->
 
 ---
