@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't. (1790917900) 😆
+> The generation of random numbers is too important to be left to chance. (1791003245) 😆
 <!-- JOKE-END -->
 
 ---
