@@ -165,7 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I'd tell you a joke about NAT but I would have to translate. (1791177008) 😆
+> Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn." (1791266158) 😆
 <!-- JOKE-END -->
 
 ---
