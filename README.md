@@ -165,10 +165,10 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn." (1791266158) 😆
+> "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned. (1791350987) 😆
 <!-- JOKE-END -->
 
 ---
