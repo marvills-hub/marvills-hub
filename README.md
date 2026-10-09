@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your momma is so fat, you need to switch to NTFS to store a picture of her. (1791437913) 😆
+> A programmer puts two glasses on his bedside table before going to sleep.
+A full one, in case he gets thirsty, and an empty one, in case he doesn't. (1791524534) 😆
 <!-- JOKE-END -->
 
 ---
