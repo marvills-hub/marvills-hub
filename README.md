@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1791695955) 😆
+> Algorithm: A word used by programmers when they don't want to explain how their code works. (1791783072) 😆
 <!-- JOKE-END -->
 
 ---
