@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "We messed up the keming again guys." (1793511395) 😆
+> Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science. (1793597590) 😆
 <!-- JOKE-END -->
 
 ---
