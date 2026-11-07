@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> // This line doesn't actually do anything, but the code stops working when I delete it. (1793945028) 😆
+> ASCII silly question, get a silly ANSI. (1794029764) 😆
 <!-- JOKE-END -->
 
 ---
