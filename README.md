@@ -165,7 +165,9 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> I have a joke about Stack Overflow, but you would say it's a duplicate. (1794293666) 😆
+> "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke." (1794375840) 😆
 <!-- JOKE-END -->
 
 ---
