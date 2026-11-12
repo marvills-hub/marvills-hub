@@ -165,9 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke." (1794375840) 😆
+> ASCII silly question, get a silly ANSI. (1794466204) 😆
 <!-- JOKE-END -->
 
 ---
