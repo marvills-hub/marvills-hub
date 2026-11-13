@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> ASCII silly question, get a silly ANSI. (1794466204) 😆
+> I'd tell you a joke about NAT but I would have to translate. (1794550078) 😆
 <!-- JOKE-END -->
 
 ---
