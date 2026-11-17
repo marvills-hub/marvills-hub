@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone. (1794808534) 😆
+> Debugging: Removing the needles from the haystack. (1794900731) 😆
 <!-- JOKE-END -->
 
 ---
