@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does. (1795157351) 😆
+> Debugging is like being the detective in a crime movie where you're also the murderer at the same time. (1795243375) 😆
 <!-- JOKE-END -->
 
 ---
