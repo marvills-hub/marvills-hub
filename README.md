@@ -165,8 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday. (1795593589) 😆
+> Your mama's so FAT she can't save files bigger than 4GB. (1795679513) 😆
 <!-- JOKE-END -->
 
 ---
