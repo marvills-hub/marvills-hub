@@ -165,7 +165,7 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> Your mama's so FAT she can't save files bigger than 4GB. (1795679513) 😆
+> UDP is better in the COVID era since it avoids unnecessary handshakes. (1795765929) 😆
 <!-- JOKE-END -->
 
 ---
