@@ -165,7 +165,8 @@
 ## 😂 Programming Joke
 
 <!-- JOKE-START -->
-> UDP is better in the COVID era since it avoids unnecessary handshakes. (1795765929) 😆
+> A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?" (1795850470) 😆
 <!-- JOKE-END -->
 
 ---
